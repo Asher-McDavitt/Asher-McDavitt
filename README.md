@@ -1,8 +1,4 @@
-Hello, I’m Asher McDavitt ( @Asher-McDavitt )
 
-I am interested in Data Science, Machine Learning, Deep Learning, and general Artificial Intelligence.
-
-Currently, I am working on Zero-toMastery's Tensorflow and Pytorch courses and the Harvard CS50 course.
 
 
 
